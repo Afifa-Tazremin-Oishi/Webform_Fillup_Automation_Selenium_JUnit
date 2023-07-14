@@ -21,7 +21,6 @@ After successful submission, assert the expected message as: Thank you for your 
 - JUnit
 
 ## Report ScreenShot
-### Test Summary
 ![image](https://www.linkpicture.com/q/Selenium-1.png)
 ![image](https://www.linkpicture.com/q/Selenium-2.png)
 ![image](https://www.linkpicture.com/q/Selenium-3.png)
